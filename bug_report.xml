@@ -1,1 +1,14 @@
-
+<bug_report>
+  <id> 27 </id>
+  <severity> minor </severity>
+  <priority> high </priority>
+  <title> wrong phone number on home page </title>
+  <environment> Samsung galaxy A12 Android 12 </environment>
+  <precondition> no </precondition>
+  <steps> open website www.site.com  </steps>
+  <expected result> the correct phone number on the main page is +995 123 456  </expected result>
+  <actual result> the correct phone number on the main page is +995 000 000 </actual result>
+  <link> www.site.com  </link>
+  <comments> no  </comments>
+  <data> 27.04.2023 </data>
+</bug_report>
